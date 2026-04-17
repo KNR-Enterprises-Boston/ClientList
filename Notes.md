@@ -1,5 +1,6 @@
 Prompt: You are going to research potential clients for websites and branding help. As outlined in @Notes.md  you will search for and generate a list of potential clients who are in need of a website. Flesh out the requirements, who to search for, then search and create a list.
 
+
 What to do: Search for local businesses that do not have a website and would likely benefit from having one.
 
 Notes: Since this is a research task, I should use web search capabilities. Let me first create a plan, then execute the research. Follow the plan workflow. But this isn't really a coding task - it's a research task. I should outline my research approach first—defining what types of businesses to target, which geographic areas to focus on, and how to identify those without web presence—then I can move forward with the actual searches and compile the results.
